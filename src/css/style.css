@@ -1,0 +1,40 @@
+
+html, body {
+    height: 100%;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.shea-bg{
+    background-color: #4D1E02;
+}
+.orange-color{
+    color: #E68750;
+}
+.ubuntu-family{
+    font-family: 'Ubuntu', sans-serif;
+}
+.text-brown-shea{
+    color: #4D1E02;
+}
+.img-fixed{
+    position:relative;
+    width: 70%;
+    right: -50px;
+    bottom: 30px;
+    z-index: 0;
+
+
+}
+.img-fixed2{
+    position:relative;
+    width: 70%;
+    right: -200px;
+    top: 30px;
+    z-index: 0;
+
+
+}
+.shea-light-bg{
+
+}
